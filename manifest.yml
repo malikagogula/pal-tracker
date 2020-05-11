@@ -4,4 +4,4 @@ applications:
   path: src/PalTracker/bin/Release/netcoreapp3.1/publish/
   random-route: true
   env:
-    WELCOME_MESSAGE: Hello from Cloud Foundry Manifest
+    WELCOME_MESSAGE: Hello from Cloud Foundry
